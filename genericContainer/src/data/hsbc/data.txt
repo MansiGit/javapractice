@@ -1,0 +1,12 @@
+100,mansi,4500
+23,arpna,5000
+25,Sameer,89900
+45,kayan,564456
+52,meera,565444
+25,Sameer,89900
+45,kayan,564456
+67,Akash,50000
+21,radhika,70000
+12,neeraj,78
+12,ridhi,780000
+dd,huhuuh,dummy
